@@ -5,4 +5,3 @@ from django.contrib import admin
 #admin.site.register(Grupo)
 #admin.site.register(Subgrupo)
 #admin.site.register(Cargo)
-#admin.site.register(Empresa)
